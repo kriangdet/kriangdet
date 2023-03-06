@@ -1,0 +1,35 @@
+rh2plusmanga.com##div.wrap:nth-child(3) > div.body-wrap > div.ads.col-md-12.text-center.mt-2.mb-2:nth-child(3)
+rh2plusmanga.com##div.ads-float:nth-child(46) > div > a:last-child > img
+rh2plusmanga.com##div.ads-float:nth-child(47) > div > a:last-child > img
+rh2plusmanga.com##div.ads-float:nth-child(45) > div > a:last-child > img
+rh2plusmanga.com##code:nth-child(4) > div.ads-float:nth-child(44)
+rh2plusmanga.com##code:nth-child(4) > div.ads-float:nth-child(43)
+rh2plusmanga.com##code:nth-child(4) > div.ads-float:nth-child(42)
+murim-manga.com###content > div.wrapper > div.dessert-frame:first-child > center
+mafia-manga.com###wbnn > a:last-child > img
+mafia-manga.com###content > div.wrapper > div.dessert-frame:first-child > center
+xn--l3c0azab5a2gta.com##div.ads:nth-child(6)
+mangathailand.com##div.elementor.elementor-58.elementor-location-single.post-31844.post.type-post.status-publish.format-standard.hentry.category-peerless-battle-spirit:nth-child(10) > div.elementor-element.elementor-element-3d8a7f7.e-container--column.e-container:first-child
+mangathailand.com###ads > center
+joji-manga.com###content > div.wrapper > div.dessert-frame:first-child > center
+joji-manga.com###wbnn > a:last-child > img
+manhuabug.com##div.wrap:nth-child(9) > div.body-wrap > div.header-ads-section:nth-child(3)
+mangadeemak.com###ads_02 > div > a:last-child > img.ads-resm
+mangadeemak.com###ads_03 > div > a:last-child > img.ads-resm
+mangadeemak.com###ads_04 > div > a:last-child > img
+mangadeemak.com###custom_html-32 > div.widget_text.widget__inner.widget_custom_html__inner.c-widget-wrap > div.widget_text.widget-content > div.textwidget.custom-html-widget > div.container.justify-content-center > div.n-ban.text-center
+series4k.co###wrap > div.notice1:nth-child(3)
+series4k.co###content > div.content-main:first-child > div.box:nth-child(2) > div.filmicerik > div.notice1:nth-child(2)
+series4k.co###content > div.content-main:first-child > div.box:nth-child(2) > div.filmicerik > div.notice1:nth-child(10)
+makimaaaaa.com###wbnn > a:last-child > img
+makimaaaaa.com###content > div.blox.mlb.kln:first-child > div.dessert-frame > center
+mangathailand.com###ads-sticky
+rh2plusmanga.com##div.ads-float:nth-child(48) > div > a:last-child > img
+rh2plusmanga.com##code:nth-child(4) > div.ads-float:nth-child(41)
+haremmanhua.com##div.wrap:first-child > div.body-wrap > div.header-ads-section:nth-child(4)
+haremmanhua.com##div.wrap:first-child > div.body-wrap > div.header-ads-section:nth-child(3)
+thaimanga.net##div.ads:nth-child(6)
+doodmanga.com##div.wrap:nth-child(9) > div.body-wrap > div.ads.col-md-12.text-center.mt-2.mb-2:nth-child(3)
+chocomanga.com##div.wrap:nth-child(9) > div.body-wrap > div.ads:nth-child(3)
+kapimanga.com##div.wrap:nth-child(9) > div.body-wrap > div.ads.col-md-12.text-center.mt-2.mb-2:nth-child(3)
+kapimanga.com##div.ads-float:nth-child(45)
