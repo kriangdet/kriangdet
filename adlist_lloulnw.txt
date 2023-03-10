@@ -33,3 +33,5 @@ doodmanga.com##div.wrap:nth-child(9) > div.body-wrap > div.ads.col-md-12.text-ce
 chocomanga.com##div.wrap:nth-child(9) > div.body-wrap > div.ads:nth-child(3)
 kapimanga.com##div.wrap:nth-child(9) > div.body-wrap > div.ads.col-md-12.text-center.mt-2.mb-2:nth-child(3)
 kapimanga.com##div.ads-float:nth-child(45)
+manhuakey.com##div.ads-float:nth-child(45)
+manhuakey.com##div.wrap:nth-child(9) > div.body-wrap > div.ads.col-md-12.text-center.mt-2.mb-2:nth-child(3)
