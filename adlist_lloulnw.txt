@@ -38,3 +38,6 @@ manhuakey.com##div.wrap:nth-child(9) > div.body-wrap > div.ads.col-md-12.text-ce
 god-manga.com###wbnn > a:last-child > img
 god-manga.com##header.header:nth-child(3)
 god-manga.com##main:nth-child(4) > div.content:first-child > div.ads:nth-child(3)
+xn--l3c0azab5a2gta.com##div.ads:nth-child(6)
+mafia-manga.com###content > div.wrapper > div.dessert-frame:first-child > center
+mafia-manga.com###wbnn > a:last-child > img
