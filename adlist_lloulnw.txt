@@ -42,3 +42,7 @@ xn--l3c0azab5a2gta.com##div.ads:nth-child(6)
 mafia-manga.com###content > div.wrapper > div.dessert-frame:first-child > center
 mafia-manga.com###wbnn > a:last-child > img
 nabee-manga.com##div.wrap:nth-child(9) > div.body-wrap > div.header-ads-section:nth-child(3)
+manga-uptocats.com##div.wrap:nth-child(9) > div.body-wrap > div.c-sidebar.c-top-sidebar.wp-manga:nth-child(2)
+manga-uptocats.com###upcat_ads3
+manga-uptocats.com###upcat_ads2
+manga-uptocats.com###upcat_ads1
