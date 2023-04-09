@@ -35,6 +35,8 @@ kapimanga.com##div.wrap:nth-child(9) > div.body-wrap > div.ads.col-md-12.text-ce
 kapimanga.com##div.ads-float:nth-child(45)
 manhuakey.com##div.ads-float:nth-child(45)
 manhuakey.com##div.wrap:nth-child(9) > div.body-wrap > div.ads.col-md-12.text-center.mt-2.mb-2:nth-child(3)
+manhuakey.com##div.ads-float:nth-child(46)
+manhuakey.com##div.ads-float:nth-child(48) > div > a:last-child > img
 god-manga.com###wbnn > a:last-child > img
 god-manga.com##header.header:nth-child(3)
 god-manga.com##main:nth-child(4) > div.content:first-child > div.ads:nth-child(3)
@@ -46,3 +48,5 @@ manga-uptocats.com##div.wrap:nth-child(9) > div.body-wrap > div.c-sidebar.c-top-
 manga-uptocats.com###upcat_ads3
 manga-uptocats.com###upcat_ads2
 manga-uptocats.com###upcat_ads1
+kumomanga.net##div.blox.mlb.kln:nth-child(4) > div.dessert-frame
+kumomanga.net###wbnn
