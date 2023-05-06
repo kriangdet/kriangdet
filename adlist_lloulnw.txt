@@ -51,3 +51,5 @@ manga-uptocats.com###upcat_ads1
 kumomanga.net##div.blox.mlb.kln:nth-child(4) > div.dessert-frame
 kumomanga.net###wbnn
 sixmanga.com##div.wrap:first-child > div.body-wrap > div.ads.col-md-12.text-center.mt-2.mb-2:nth-child(3)
+loli-manga.com###__nuxt > div > div.v-application.v-theme--light.v-layout.v-layout--full-height.v-locale--is-ltr > div.v-application__wrap > main.v-main > div:last-child > div.v-row.v-row--no-gutters.ads:first-child
+loli-manga.com###__nuxt > div > div.v-application.v-theme--light.v-layout.v-layout--full-height.v-locale--is-ltr > div.v-application__wrap > main.v-main > div:last-child > div:nth-child(4) > div.popup-wrap.pc-5
