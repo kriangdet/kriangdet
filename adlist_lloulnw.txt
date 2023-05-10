@@ -55,3 +55,6 @@ loli-manga.com###__nuxt > div > div.v-application.v-theme--light.v-layout.v-layo
 loli-manga.com###__nuxt > div > div.v-application.v-theme--light.v-layout.v-layout--full-height.v-locale--is-ltr > div.v-application__wrap > main.v-main > div:last-child > div:nth-child(4) > div.popup-wrap.pc-5
 manhwabreakup.com##div.wrap:nth-child(9) > div.body-wrap > div.ads.col-md-12.text-center.mt-2.mb-2:nth-child(3)
 manhwabreakup.com##div.ads-float:nth-child(41) > div > a:last-child > img
+kapimanga.com##div.ads-float:nth-child(46)
+kapimanga.com##div.ads-float:nth-child(47)
+kapimanga.com##div.ads-float:nth-child(48)
