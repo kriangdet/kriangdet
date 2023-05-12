@@ -58,3 +58,5 @@ manhwabreakup.com##div.ads-float:nth-child(41) > div > a:last-child > img
 kapimanga.com##div.ads-float:nth-child(46)
 kapimanga.com##div.ads-float:nth-child(47)
 kapimanga.com##div.ads-float:nth-child(48)
+popsmanga.com###content > div.wrapper > div.dessert-frame:first-child > center
+popsmanga.com###wbnn > a:last-child > img
