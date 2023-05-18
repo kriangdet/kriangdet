@@ -60,3 +60,7 @@ kapimanga.com##div.ads-float:nth-child(47)
 kapimanga.com##div.ads-float:nth-child(48)
 popsmanga.com###content > div.wrapper > div.dessert-frame:first-child > center
 popsmanga.com###wbnn > a:last-child > img
+moodtoon.com###ads_02
+moodtoon.com###ads_03
+moodtoon.com###content > div.blox.mlb.kln:first-child > div.mt-ad.text-center
+moodtoon.com###ads_04
