@@ -73,3 +73,5 @@ rh2plusmanga.com##code:nth-child(12) > div.ads-float:nth-child(41)
 rh2plusmanga.com##div.wrap:nth-child(11) > div.body-wrap:first-child > div.ads.col-md-12.text-center.mt-2.mb-2:nth-child(3)
 manhuabug.com##div.wrap:first-child > div.body-wrap > div.header-ads-section:nth-child(3)
 mangathailand.com##div.elementor.elementor-58.elementor-location-single.post-30286.post.type-post.status-publish.format-standard.hentry.category-rise-from-the-rubble:nth-child(3) > div.elementor-element.elementor-element-3d8a7f7.e-flex.e-con-boxed.e-con:first-child
+mangathailand.com###ads
+
