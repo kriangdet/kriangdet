@@ -82,3 +82,6 @@ reapertrans.com###ads_04
 reapertrans.com###ads_05
 reapertrans.com###content > div.wrapper > div.th-ban.text-center:first-child > div.dessert-frame
 mangathailand.com###ads-sticky-r
+ped-manga.com###wbnn > a:last-child > img
+ped-manga.com###content > div.wrapper > div.dessert-frame:first-child
+ped-manga.com###wbnn > span.wbnn-close:first-child
