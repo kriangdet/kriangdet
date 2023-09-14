@@ -85,3 +85,4 @@ mangathailand.com###ads-sticky-r
 ped-manga.com###wbnn > a:last-child > img
 ped-manga.com###content > div.wrapper > div.dessert-frame:first-child
 ped-manga.com###wbnn > span.wbnn-close:first-child
+loli-manga.com###__nuxt > div > div.v-application.v-theme--light.v-layout.v-layout--full-height.v-locale--is-ltr > div.v-application__wrap > main.v-main:last-child > div.main > div:last-child > div.main-content:nth-child(2) > div.content-section > div.v-row > div:last-child > div.popup-wrap.posb-3 > div.popup-content
