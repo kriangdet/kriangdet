@@ -87,3 +87,9 @@ ped-manga.com###content > div.wrapper > div.dessert-frame:first-child
 ped-manga.com###wbnn > span.wbnn-close:first-child
 loli-manga.com###__nuxt > div > div.v-application.v-theme--light.v-layout.v-layout--full-height.v-locale--is-ltr > div.v-application__wrap > main.v-main:last-child > div.main > div:last-child > div.main-content:nth-child(2) > div.content-section > div.v-row > div:last-child > div.popup-wrap.posb-3 > div.popup-content
 loli-manga.com###__nuxt > div > div.v-application.v-theme--light.v-layout.v-layout--full-height.v-locale--is-ltr > div.v-application__wrap > main.v-main > div:last-child > div:nth-child(4)
+baan-series.co##div.container.movie-container:nth-child(4) > div.row.mt-4:last-child > div.row:first-child
+baan-series.co###floating_banner_top
+baan-series.co###misa-content > div.row:last-child > div.col-lg-12:first-child
+baan-series.co###misa-content > div.row:last-child > div.col-md-12:last-child > div.card > div.card-body:last-child > center:first-child
+moodtoon.com###ads_05
+reapertrans.com##.dessert-frame
