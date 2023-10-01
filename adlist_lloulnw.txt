@@ -93,3 +93,5 @@ baan-series.co###misa-content > div.row:last-child > div.col-lg-12:first-child
 baan-series.co###misa-content > div.row:last-child > div.col-md-12:last-child > div.card > div.card-body:last-child > center:first-child
 moodtoon.com###ads_05
 reapertrans.com##.dessert-frame
+rose-manga.com###wbnn
+rose-manga.com##header.header:nth-child(2) > div.blox.mlb.kln:last-child > div.dessert-frame > center
