@@ -95,3 +95,5 @@ moodtoon.com###ads_05
 reapertrans.com##.dessert-frame
 rose-manga.com###wbnn
 rose-manga.com##header.header:nth-child(2) > div.blox.mlb.kln:last-child > div.dessert-frame > center
+manhuakey.com##div.ads-float:nth-child(38)
+manhuakey.com##div.wrap:first-child > div.body-wrap > div.ads.col-md-12.text-center.mt-2.mb-2:nth-child(3)
