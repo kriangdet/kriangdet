@@ -97,3 +97,9 @@ rose-manga.com###wbnn
 rose-manga.com##header.header:nth-child(2) > div.blox.mlb.kln:last-child > div.dessert-frame > center
 manhuakey.com##div.ads-float:nth-child(38)
 manhuakey.com##div.wrap:first-child > div.body-wrap > div.ads.col-md-12.text-center.mt-2.mb-2:nth-child(3)
+sing-manga.com##div.ads:nth-child(6)
+manga-za.net###ads_03
+manga-za.net###ads_02
+manga-za.net###ads_05
+manga-za.net###content > div.blox.mlb.kln:first-child > div.mt-ad.text-center
+manga-za.net###ads_04
