@@ -100,6 +100,14 @@ manhuakey.com##div.wrap:first-child > div.body-wrap > div.ads.col-md-12.text-cen
 sing-manga.com##div.ads:nth-child(6)
 manga-za.net###ads_03
 manga-za.net###ads_02
+inu-manga.com##div.mainholder:nth-child(4) > div.header-ads-section:nth-child(3)
+mangathailand.com###content > div.page-content > div.elementor.elementor-11:first-child > div.elementor-element.elementor-element-ad250fa.e-flex.e-con-boxed.e-con.e-parent:nth-child(3) > div.e-con-inner
+mangathailand.com##div.elementor.elementor-2588.elementor-location-archive:nth-child(3) > section.elementor-section.elementor-top-section.elementor-element.elementor-element-e191430.elementor-section-boxed.elementor-section-height-default:first-child
+mangathailand.com##div.elementor.elementor-58.elementor-location-single.post-56414.post.type-post.status-publish.format-standard.hentry.category-i-determine-my-own-destiny:nth-child(3) > div.elementor-element.elementor-element-f45fbb6.e-flex.e-con-boxed.e-con.e-parent:first-child
+mangathailand.com##div.elementor.elementor-58.elementor-location-single.post-56414.post.type-post.status-publish.format-standard.hentry.category-i-determine-my-own-destiny:nth-child(3) > div.elementor-element.elementor-element-2b7f064.e-flex.e-con-boxed.e-con.e-parent:last-child > div.e-con-inner > div.elementor-element.elementor-element-dbded0f.e-con-full.e-flex.e-con.e-child > div.elementor-element.elementor-element-7f6bed6.e-grid.e-con-boxed.e-con.e-child:nth-child(2) > div.e-con-inner > div.elementor-element.elementor-element-07f686d.elementor-widget.elementor-widget-image:first-child > div.elementor-widget-container > a > img.attachment-full.size-full.wp-image-56412
+mangathailand.com##div.elementor.elementor-58.elementor-location-single.post-56414.post.type-post.status-publish.format-standard.hentry.category-i-determine-my-own-destiny:nth-child(3) > div.elementor-element.elementor-element-2b7f064.e-flex.e-con-boxed.e-con.e-parent:last-child > div.e-con-inner > div.elementor-element.elementor-element-dbded0f.e-con-full.e-flex.e-con.e-child > div.elementor-element.elementor-element-7f6bed6.e-grid.e-con-boxed.e-con.e-child:nth-child(2) > div.e-con-inner > div.elementor-element.elementor-element-c7b91ed.elementor-widget.elementor-widget-image:last-child > div.elementor-widget-container > a > img.attachment-full.size-full.wp-image-56413
+mangathailand.com###ads-sticky-b
+https://mangathailand.com/wp-content/uploads/2022
 manga-za.net###ads_05
 manga-za.net###content > div.blox.mlb.kln:first-child > div.mt-ad.text-center
 manga-za.net###ads_04
