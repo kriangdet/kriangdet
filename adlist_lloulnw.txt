@@ -111,3 +111,6 @@ https://mangathailand.com/wp-content/uploads/2022
 manga-za.net###ads_05
 manga-za.net###content > div.blox.mlb.kln:first-child > div.mt-ad.text-center
 manga-za.net###ads_04
+murim-manga.com###ads_fox_bottom
+reapertrans.com###content > div.wrapper > div.sort-ban.text-center:nth-child(2)
+reapertrans.com##.sort-ban, .text-center
