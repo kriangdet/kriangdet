@@ -128,4 +128,6 @@ kapimanga.com##div.ads-float:nth-child(37) > div > a:last-child > img
 germa-66.com##header.header:nth-child(4) > div.blox.mlb.kln:last-child
 manhwathailand.com###wbnn
 manhwathailand.com##header.header:nth-child(4) > div.blox.mlb.kln:last-child
-
+sixmanga.com##div.wrap:nth-child(10) > div.body-wrap > div.ads.col-md-12.text-center.mt-2.mb-2:nth-child(3)
+kapimanga.com##div.wrap:nth-child(2) > div.body-wrap > div.ads.col-md-12.text-center.mt-2.mb-2:nth-child(3)
+kapimanga.com##div.ads-float:nth-child(38) > div > a:last-child > img
