@@ -1,177 +1,177 @@
 [Adblock Plus Beta] By Ohm
 ! Version: 0.0.1
 
-rh2plusmanga.com##div.wrap:nth-child(3) > div.body-wrap > div.ads.col-md-12.text-center.mt-2.mb-2:nth-child(3)
-rh2plusmanga.com##div.ads-float:nth-child(46) > div > a:last-child > img
-rh2plusmanga.com##div.ads-float:nth-child(47) > div > a:last-child > img
-rh2plusmanga.com##div.ads-float:nth-child(45) > div > a:last-child > img
-rh2plusmanga.com##code:nth-child(4) > div.ads-float:nth-child(44)
-rh2plusmanga.com##code:nth-child(4) > div.ads-float:nth-child(43)
-rh2plusmanga.com##code:nth-child(4) > div.ads-float:nth-child(42)
-murim-manga.com###content > div.wrapper > div.dessert-frame:first-child > center
-mafia-manga.com###wbnn > a:last-child > img
-mafia-manga.com###content > div.wrapper > div.dessert-frame:first-child > center
-xn--l3c0azab5a2gta.com##div.ads:nth-child(6)
+108-manga.com##div.ads:nth-child(6)
+aquamanga.com###radio_content > iframe:last-child
+baan-series.co###floating_banner_top
+baan-series.co###misa-content > div.row:last-child > div.col-lg-12:first-child
+baan-series.co###misa-content > div.row:last-child > div.col-md-12:last-child > div.card > div.card-body:last-child > center:first-child
+baan-series.co##div.container.movie-container:nth-child(4) > div.row.mt-4:last-child > div.row:first-child
+chocomanga.com##div.wrap:nth-child(9) > div.body-wrap > div.ads:nth-child(3)
+doodmanga.com##div.wrap:nth-child(9) > div.body-wrap > div.ads.col-md-12.text-center.mt-2.mb-2:nth-child(3)
+germa-66.com###wbnn
+germa-66.com##header.header:nth-child(3)
+germa-66.com##header.header:nth-child(4) > div.blox.mlb.kln:last-child
+go-manga.com###content > div.wrapper > div.center_gomanga3
+go-manga.com###sticky-bottom2
+god-manga.com###wbnn > a:last-child > img
+god-manga.com##div.blox.mlb.kln:nth-child(4) > div.dessert-frame > center
+god-manga.com##header.header:nth-child(3)
+god-manga.com##main:nth-child(4) > div.content:first-child > div.ads:nth-child(3)
+haremmanhua.com##div.wrap:first-child > div.body-wrap > div.header-ads-section:nth-child(3)
+haremmanhua.com##div.wrap:first-child > div.body-wrap > div.header-ads-section:nth-child(4)
+https://mangathailand.com/wp-content/uploads/2021/02/inw2.jpg
+https://mangathailand.com/wp-content/uploads/2021/02/javhdguru.webp
+https://mangathailand.com/wp-content/uploads/2021/02/kseries.webp
+https://mangathailand.com/wp-content/uploads/2022/07/1688sa-768x256.webp
+https://mangathailand.com/wp-content/uploads/2022/07/1688sx-768x256.webp
+https://mangathailand.com/wp-content/uploads/2022/07/brazil-768x256.webp
+https://mangathailand.com/wp-content/uploads/2022/07/c4-768x256.webp
+https://mangathailand.com/wp-content/uploads/2022/07/hydra888_2.webp
+https://mangathailand.com/wp-content/uploads/2022/07/hydra-768x256.webp
+https://mangathailand.com/wp-content/uploads/2022/07/juad888_2.webp 	
+https://mangathailand.com/wp-content/uploads/2022/07/juad-768x256.webp
+https://mangathailand.com/wp-content/uploads/2022/07/kingdom-768x256.webp
+https://mangathailand.com/wp-content/uploads/2022/07/lockdown168_2.webp
+https://mangathailand.com/wp-content/uploads/2022/07/lockdown-768x256.webp
+https://mangathailand.com/wp-content/uploads/2022/07/lotto77-768x256.webp
+https://mangathailand.com/wp-content/uploads/2022/07/lotto432-768x256.webp
+https://mangathailand.com/wp-content/uploads/2022/07/nance-768x256.webp
+https://mangathailand.com/wp-content/uploads/2022/07/panama-1-768x256.webp
+https://mangathailand.com/wp-content/uploads/2022/07/ss66-768x256.webp
+https://mangathailand.com/wp-content/uploads/2022/07/zeed-768x256.webp
+https://mangathailand.com/wp-content/uploads/2024/02/brazil.webp 		
+https://mangathailand.com/wp-content/uploads/2024/02/kingdom66.webp 	
+https://mangathailand.com/wp-content/uploads/2024/02/lotto77.webp
+https://mangathailand.com/wp-content/uploads/2024/02/lotto432.webp 	
+https://mangathailand.com/wp-content/uploads/2024/02/panama888.webp 
+https://mangathailand.com/wp-content/uploads/2024/02/sagame1688.webp 	
+https://mangathailand.com/wp-content/uploads/2024/02/sexygame1688.webp 
+https://mangathailand.com/wp-content/uploads/2024/02/ssgame66.webp 	
+https://mangathailand.com/wp-content/uploads/2024/02/ufac4.webp 		
+https://mangathailand.com/wp-content/uploads/2024/02/ufanance.webp 	
+https://mangathailand.com/wp-content/uploads/2024/02/ufazeed.webp 		
+https://www.go-manga.com/wp-content/uploads/2024/03/hengjing168.gif
+https://www.go-manga.com/wp-content/uploads/2024/03/pgslot135.gif
+https://www.go-manga.com/wp-content/uploads/2024/04/fafa666.gif
+https://www.go-manga.com/wp-content/uploads/2024/04/pgk44.gif
+https://www.go-manga.com/wp-content/uploads/2024/05/8196v2.gif
+https://www.go-manga.com/wp-content/uploads/2024/05/8196x3.gif
+https://www.go-manga.com/wp-content/uploads/2024/05/Alpha88v2.gif
+https://www.go-manga.com/wp-content/uploads/2024/05/baccarat888.gif
+https://www.go-manga.com/wp-content/uploads/2024/05/camel88.gif
+https://www.go-manga.com/wp-content/uploads/2024/05/fafa678x1.gif
+https://www.go-manga.com/wp-content/uploads/2024/05/kod168.gif
+https://www.go-manga.com/wp-content/uploads/2024/05/mangav2.gif
+https://www.go-manga.com/wp-content/uploads/2024/05/neon24h.gif
+https://www.go-manga.com/wp-content/uploads/2024/05/q8196.gif
+https://www.go-manga.com/wp-content/uploads/2024/05/r8196.gif
+https://www.go-manga.com/wp-content/uploads/2024/05/sagaming.gif
+https://www.go-manga.com/wp-content/uploads/2024/05/salkgaming.gif
+https://www.go-manga.com/wp-content/uploads/2024/05/sbobet888.gif
+https://www.go-manga.com/wp-content/uploads/2024/05/u8196.gif
+https://www.go-manga.com/wp-content/uploads/2024/05/z8196.gif
+https://www.go-manga.com/wp-content/uploads/2024/06/140x250_game.gif
+https://www.go-manga.com/wp-content/uploads/2024/06/f8196.gif
+https://www.go-manga.com/wp-content/uploads/2024/06/fhm99v2.gif
+https://www.go-manga.com/wp-content/uploads/2024/06/p8196-1.gif
+inu-manga.com##div.mainholder:nth-child(4) > div.header-ads-section:nth-child(3)
 joji-manga.com###content > div.wrapper > div.dessert-frame:first-child > center
 joji-manga.com###wbnn > a:last-child > img
-manhuabug.com##div.wrap:nth-child(9) > div.body-wrap > div.header-ads-section:nth-child(3)
+kapimanga.com##div.ads-float:nth-child(37) > div > a:last-child > img
+kapimanga.com##div.ads-float:nth-child(38) > div > a:last-child > img
+kapimanga.com##div.ads-float:nth-child(45)
+kapimanga.com##div.ads-float:nth-child(46)
+kapimanga.com##div.ads-float:nth-child(47)
+kapimanga.com##div.ads-float:nth-child(48)
+kapimanga.com##div.wrap:nth-child(2) > div.body-wrap > div.ads.col-md-12.text-center.mt-2.mb-2:nth-child(3)
+kapimanga.com##div.wrap:nth-child(9) > div.body-wrap > div.ads.col-md-12.text-center.mt-2.mb-2:nth-child(3)
+kumomanga.net###wbnn
+kumomanga.net##div.blox.mlb.kln:nth-child(4) > div.dessert-frame
+loli-manga.com###__nuxt > div > div.v-application.v-theme--light.v-layout.v-layout--full-height.v-locale--is-ltr > div.v-application__wrap > main.v-main > div:last-child > div.v-row.v-row--no-gutters.ads:first-child
+loli-manga.com###__nuxt > div > div.v-application.v-theme--light.v-layout.v-layout--full-height.v-locale--is-ltr > div.v-application__wrap > main.v-main > div:last-child > div:nth-child(4)
+loli-manga.com###__nuxt > div > div.v-application.v-theme--light.v-layout.v-layout--full-height.v-locale--is-ltr > div.v-application__wrap > main.v-main > div:last-child > div:nth-child(4) > div.popup-wrap.pc-5
+loli-manga.com###__nuxt > div > div.v-application.v-theme--light.v-layout.v-layout--full-height.v-locale--is-ltr > div.v-application__wrap > main.v-main:last-child > div.main > div:last-child > div.main-content:nth-child(2) > div.content-section > div.v-row > div:last-child > div.popup-wrap.posb-3 > div.popup-content
+mafia-manga.com###content > div.wrapper > div.dessert-frame:first-child > center
+mafia-manga.com###content > div.wrapper > div.dessert-frame:first-child > center
+mafia-manga.com###wbnn > a:last-child > img
+mafia-manga.com###wbnn > a:last-child > img
+makimaaaaa.com###content > div.blox.mlb.kln:first-child > div.dessert-frame > center
+makimaaaaa.com###wbnn > a:last-child > img
+manga-uptocats.com###upcat_ads1
+manga-uptocats.com###upcat_ads2
+manga-uptocats.com###upcat_ads3
+manga-uptocats.com##div.wrap:nth-child(9) > div.body-wrap > div.c-sidebar.c-top-sidebar.wp-manga:nth-child(2)
+manga-za.net###ads_02
+manga-za.net###ads_03
+manga-za.net###ads_04
+manga-za.net###ads_05
+manga-za.net###content > div.blox.mlb.kln:first-child > div.mt-ad.text-center
 mangadeemak.com###ads_02 > div > a:last-child > img.ads-resm
 mangadeemak.com###ads_03 > div > a:last-child > img.ads-resm
 mangadeemak.com###ads_04 > div > a:last-child > img
 mangadeemak.com###custom_html-32 > div.widget_text.widget__inner.widget_custom_html__inner.c-widget-wrap > div.widget_text.widget-content > div.textwidget.custom-html-widget > div.container.justify-content-center > div.n-ban.text-center
-series4k.co###wrap > div.notice1:nth-child(3)
-series4k.co###content > div.content-main:first-child > div.box:nth-child(2) > div.filmicerik > div.notice1:nth-child(2)
-series4k.co###content > div.content-main:first-child > div.box:nth-child(2) > div.filmicerik > div.notice1:nth-child(10)
-makimaaaaa.com###wbnn > a:last-child > img
-makimaaaaa.com###content > div.blox.mlb.kln:first-child > div.dessert-frame > center
-rh2plusmanga.com##div.ads-float:nth-child(48) > div > a:last-child > img
-rh2plusmanga.com##code:nth-child(4) > div.ads-float:nth-child(41)
-haremmanhua.com##div.wrap:first-child > div.body-wrap > div.header-ads-section:nth-child(4)
-haremmanhua.com##div.wrap:first-child > div.body-wrap > div.header-ads-section:nth-child(3)
-thaimanga.net##div.ads:nth-child(6)
-doodmanga.com##div.wrap:nth-child(9) > div.body-wrap > div.ads.col-md-12.text-center.mt-2.mb-2:nth-child(3)
-chocomanga.com##div.wrap:nth-child(9) > div.body-wrap > div.ads:nth-child(3)
-kapimanga.com##div.wrap:nth-child(9) > div.body-wrap > div.ads.col-md-12.text-center.mt-2.mb-2:nth-child(3)
-kapimanga.com##div.ads-float:nth-child(45)
+mangathailand.com###ads
+mangathailand.com###ads-sticky
+mangathailand.com###ads-sticky-b
+mangathailand.com###ads-sticky-r
+manhuabug.com##div.wrap:first-child > div.body-wrap > div.header-ads-section:nth-child(3)
+manhuabug.com##div.wrap:nth-child(9) > div.body-wrap > div.header-ads-section:nth-child(3)
+manhuakey.com##div.ads-float:nth-child(38)
 manhuakey.com##div.ads-float:nth-child(45)
-manhuakey.com##div.wrap:nth-child(9) > div.body-wrap > div.ads.col-md-12.text-center.mt-2.mb-2:nth-child(3)
 manhuakey.com##div.ads-float:nth-child(46)
 manhuakey.com##div.ads-float:nth-child(48) > div > a:last-child > img
-god-manga.com###wbnn > a:last-child > img
-god-manga.com##header.header:nth-child(3)
-god-manga.com##main:nth-child(4) > div.content:first-child > div.ads:nth-child(3)
-xn--l3c0azab5a2gta.com##div.ads:nth-child(6)
-mafia-manga.com###content > div.wrapper > div.dessert-frame:first-child > center
-mafia-manga.com###wbnn > a:last-child > img
-nabee-manga.com##div.wrap:nth-child(9) > div.body-wrap > div.header-ads-section:nth-child(3)
-manga-uptocats.com##div.wrap:nth-child(9) > div.body-wrap > div.c-sidebar.c-top-sidebar.wp-manga:nth-child(2)
-manga-uptocats.com###upcat_ads3
-manga-uptocats.com###upcat_ads2
-manga-uptocats.com###upcat_ads1
-kumomanga.net##div.blox.mlb.kln:nth-child(4) > div.dessert-frame
-kumomanga.net###wbnn
-sixmanga.com##div.wrap:first-child > div.body-wrap > div.ads.col-md-12.text-center.mt-2.mb-2:nth-child(3)
-loli-manga.com###__nuxt > div > div.v-application.v-theme--light.v-layout.v-layout--full-height.v-locale--is-ltr > div.v-application__wrap > main.v-main > div:last-child > div.v-row.v-row--no-gutters.ads:first-child
-loli-manga.com###__nuxt > div > div.v-application.v-theme--light.v-layout.v-layout--full-height.v-locale--is-ltr > div.v-application__wrap > main.v-main > div:last-child > div:nth-child(4) > div.popup-wrap.pc-5
-manhwabreakup.com##div.wrap:nth-child(9) > div.body-wrap > div.ads.col-md-12.text-center.mt-2.mb-2:nth-child(3)
+manhuakey.com##div.wrap:first-child > div.body-wrap > div.ads.col-md-12.text-center.mt-2.mb-2:nth-child(3)
+manhuakey.com##div.wrap:nth-child(9) > div.body-wrap > div.ads.col-md-12.text-center.mt-2.mb-2:nth-child(3)
+manhwabreakup.com##div.ads-float:nth-child(31)
 manhwabreakup.com##div.ads-float:nth-child(41) > div > a:last-child > img
-kapimanga.com##div.ads-float:nth-child(46)
-kapimanga.com##div.ads-float:nth-child(47)
-kapimanga.com##div.ads-float:nth-child(48)
-popsmanga.com###content > div.wrapper > div.dessert-frame:first-child > center
-popsmanga.com###wbnn > a:last-child > img
+manhwabreakup.com##div.wrap:first-child > div.body-wrap > div.ads.col-md-12.text-center.mt-2.mb-2:nth-child(3)
+manhwabreakup.com##div.wrap:nth-child(9) > div.body-wrap > div.ads.col-md-12.text-center.mt-2.mb-2:nth-child(3)
+manhwathailand.com###wbnn
+manhwathailand.com##header.header:nth-child(4) > div.blox.mlb.kln:last-child
 moodtoon.com###ads_02
 moodtoon.com###ads_03
-moodtoon.com###content > div.blox.mlb.kln:first-child > div.mt-ad.text-center
 moodtoon.com###ads_04
-aquamanga.com###radio_content > iframe:last-child
-108-manga.com##div.ads:nth-child(6)
-rh2plusmanga.com##code:nth-child(12) > div.ads-float:nth-child(43)
-rh2plusmanga.com##code:nth-child(12) > div.ads-float:nth-child(42)
-rh2plusmanga.com##code:nth-child(12) > div.ads-float:nth-child(41)
-rh2plusmanga.com##div.wrap:nth-child(11) > div.body-wrap:first-child > div.ads.col-md-12.text-center.mt-2.mb-2:nth-child(3)
-manhuabug.com##div.wrap:first-child > div.body-wrap > div.header-ads-section:nth-child(3)
-manhwabreakup.com##div.wrap:first-child > div.body-wrap > div.ads.col-md-12.text-center.mt-2.mb-2:nth-child(3)
-manhwabreakup.com##div.ads-float:nth-child(31)
+moodtoon.com###ads_05
+moodtoon.com###content > div.blox.mlb.kln:first-child > div.mt-ad.text-center
+murim-manga.com###ads_fox_bottom
+murim-manga.com###content > div.wrapper > div.dessert-frame:first-child > center
+nabee-manga.com##div.wrap:first-child > div.body-wrap > div.header-ads-section:nth-child(3)
+nabee-manga.com##div.wrap:nth-child(9) > div.body-wrap > div.header-ads-section:nth-child(3)
+ped-manga.com###content > div.wrapper > div.dessert-frame:first-child
+ped-manga.com###wbnn > a:last-child > img
+ped-manga.com###wbnn > span.wbnn-close:first-child
+popsmanga.com###content > div.wrapper > div.dessert-frame:first-child > center
+popsmanga.com###wbnn > a:last-child > img
 reapertrans.com###ads_02
 reapertrans.com###ads_03
 reapertrans.com###ads_04
 reapertrans.com###ads_05
+reapertrans.com###content > div.wrapper > div.sort-ban.text-center:nth-child(2)
 reapertrans.com###content > div.wrapper > div.th-ban.text-center:first-child > div.dessert-frame
-ped-manga.com###wbnn > a:last-child > img
-ped-manga.com###content > div.wrapper > div.dessert-frame:first-child
-ped-manga.com###wbnn > span.wbnn-close:first-child
-loli-manga.com###__nuxt > div > div.v-application.v-theme--light.v-layout.v-layout--full-height.v-locale--is-ltr > div.v-application__wrap > main.v-main:last-child > div.main > div:last-child > div.main-content:nth-child(2) > div.content-section > div.v-row > div:last-child > div.popup-wrap.posb-3 > div.popup-content
-loli-manga.com###__nuxt > div > div.v-application.v-theme--light.v-layout.v-layout--full-height.v-locale--is-ltr > div.v-application__wrap > main.v-main > div:last-child > div:nth-child(4)
-baan-series.co##div.container.movie-container:nth-child(4) > div.row.mt-4:last-child > div.row:first-child
-baan-series.co###floating_banner_top
-baan-series.co###misa-content > div.row:last-child > div.col-lg-12:first-child
-baan-series.co###misa-content > div.row:last-child > div.col-md-12:last-child > div.card > div.card-body:last-child > center:first-child
-moodtoon.com###ads_05
 reapertrans.com##.dessert-frame
+reapertrans.com##.sort-ban, .text-center
+rh2plusmanga.com##code:nth-child(4) > div.ads-float:nth-child(41)
+rh2plusmanga.com##code:nth-child(4) > div.ads-float:nth-child(42)
+rh2plusmanga.com##code:nth-child(4) > div.ads-float:nth-child(43)
+rh2plusmanga.com##code:nth-child(4) > div.ads-float:nth-child(44)
+rh2plusmanga.com##code:nth-child(12) > div.ads-float:nth-child(41)
+rh2plusmanga.com##code:nth-child(12) > div.ads-float:nth-child(42)
+rh2plusmanga.com##code:nth-child(12) > div.ads-float:nth-child(43)
+rh2plusmanga.com##div.ads-float:nth-child(45) > div > a:last-child > img
+rh2plusmanga.com##div.ads-float:nth-child(46) > div > a:last-child > img
+rh2plusmanga.com##div.ads-float:nth-child(47) > div > a:last-child > img
+rh2plusmanga.com##div.ads-float:nth-child(48) > div > a:last-child > img
+rh2plusmanga.com##div.wrap:nth-child(3) > div.body-wrap > div.ads.col-md-12.text-center.mt-2.mb-2:nth-child(3)
+rh2plusmanga.com##div.wrap:nth-child(11) > div.body-wrap:first-child > div.ads.col-md-12.text-center.mt-2.mb-2:nth-child(3)
 rose-manga.com###wbnn
 rose-manga.com##header.header:nth-child(2) > div.blox.mlb.kln:last-child > div.dessert-frame > center
-manhuakey.com##div.ads-float:nth-child(38)
-manhuakey.com##div.wrap:first-child > div.body-wrap > div.ads.col-md-12.text-center.mt-2.mb-2:nth-child(3)
+series4k.co###content > div.content-main:first-child > div.box:nth-child(2) > div.filmicerik > div.notice1:nth-child(2)
+series4k.co###content > div.content-main:first-child > div.box:nth-child(2) > div.filmicerik > div.notice1:nth-child(10)
+series4k.co###wrap > div.notice1:nth-child(3)
 sing-manga.com##div.ads:nth-child(6)
-manga-za.net###ads_03
-manga-za.net###ads_02
-inu-manga.com##div.mainholder:nth-child(4) > div.header-ads-section:nth-child(3)
-manga-za.net###ads_05
-manga-za.net###content > div.blox.mlb.kln:first-child > div.mt-ad.text-center
-manga-za.net###ads_04
-murim-manga.com###ads_fox_bottom
-reapertrans.com###content > div.wrapper > div.sort-ban.text-center:nth-child(2)
-reapertrans.com##.sort-ban, .text-center
-mangathailand.com###ads
-mangathailand.com###ads-sticky
-mangathailand.com###ads-sticky-r
-mangathailand.com###ads-sticky-b
-https://mangathailand.com/wp-content/uploads/2022/07/nance-768x256.webp
-https://mangathailand.com/wp-content/uploads/2022/07/hydra-768x256.webp
-https://mangathailand.com/wp-content/uploads/2022/07/kingdom-768x256.webp
-https://mangathailand.com/wp-content/uploads/2022/07/juad-768x256.webp
-https://mangathailand.com/wp-content/uploads/2022/07/zeed-768x256.webp
-https://mangathailand.com/wp-content/uploads/2022/07/lockdown-768x256.webp
-https://mangathailand.com/wp-content/uploads/2022/07/c4-768x256.webp
-https://mangathailand.com/wp-content/uploads/2022/07/lotto432-768x256.webp
-https://mangathailand.com/wp-content/uploads/2022/07/1688sa-768x256.webp
-https://mangathailand.com/wp-content/uploads/2022/07/1688sx-768x256.webp
-https://mangathailand.com/wp-content/uploads/2022/07/brazil-768x256.webp
-https://mangathailand.com/wp-content/uploads/2022/07/ss66-768x256.webp
-https://mangathailand.com/wp-content/uploads/2022/07/panama-1-768x256.webp
-https://mangathailand.com/wp-content/uploads/2022/07/lotto77-768x256.webp
-https://mangathailand.com/wp-content/uploads/2021/02/kseries.webp
-https://mangathailand.com/wp-content/uploads/2021/02/javhdguru.webp
-nabee-manga.com##div.wrap:first-child > div.body-wrap > div.header-ads-section:nth-child(3)
-god-manga.com##div.blox.mlb.kln:nth-child(4) > div.dessert-frame > center
-germa-66.com###wbnn
-germa-66.com##header.header:nth-child(3)
-kapimanga.com##div.ads-float:nth-child(37) > div > a:last-child > img
-germa-66.com##header.header:nth-child(4) > div.blox.mlb.kln:last-child
-manhwathailand.com###wbnn
-manhwathailand.com##header.header:nth-child(4) > div.blox.mlb.kln:last-child
+sixmanga.com##div.wrap:first-child > div.body-wrap > div.ads.col-md-12.text-center.mt-2.mb-2:nth-child(3)
 sixmanga.com##div.wrap:nth-child(10) > div.body-wrap > div.ads.col-md-12.text-center.mt-2.mb-2:nth-child(3)
-kapimanga.com##div.wrap:nth-child(2) > div.body-wrap > div.ads.col-md-12.text-center.mt-2.mb-2:nth-child(3)
-kapimanga.com##div.ads-float:nth-child(38) > div > a:last-child > img
-https://mangathailand.com/wp-content/uploads/2022/07/hydra888_2.webp
-https://mangathailand.com/wp-content/uploads/2024/02/ufanance.webp 	
-https://mangathailand.com/wp-content/uploads/2024/02/kingdom66.webp 	
-https://mangathailand.com/wp-content/uploads/2022/07/lockdown168_2.webp
-https://mangathailand.com/wp-content/uploads/2022/07/juad888_2.webp 	
-https://mangathailand.com/wp-content/uploads/2024/02/ufac4.webp 		
-https://mangathailand.com/wp-content/uploads/2024/02/ufazeed.webp 		
-https://mangathailand.com/wp-content/uploads/2024/02/lotto432.webp 	
-https://mangathailand.com/wp-content/uploads/2024/02/sagame1688.webp 	
-https://mangathailand.com/wp-content/uploads/2024/02/sexygame1688.webp 
-https://mangathailand.com/wp-content/uploads/2024/02/brazil.webp 		
-https://mangathailand.com/wp-content/uploads/2024/02/ssgame66.webp 	
-https://mangathailand.com/wp-content/uploads/2024/02/panama888.webp 
-https://mangathailand.com/wp-content/uploads/2024/02/lotto77.webp
-https://mangathailand.com/wp-content/uploads/2021/02/inw2.jpg
-go-manga.com###sticky-bottom2
-https://www.go-manga.com/wp-content/uploads/2024/05/camel88.gif
-https://www.go-manga.com/wp-content/uploads/2024/05/sagaming.gif
-https://www.go-manga.com/wp-content/uploads/2024/04/pgk44.gif
-https://www.go-manga.com/wp-content/uploads/2024/04/fafa666.gif
-https://www.go-manga.com/wp-content/uploads/2024/03/pgslot135.gif
-https://www.go-manga.com/wp-content/uploads/2024/05/salkgaming.gif
-https://www.go-manga.com/wp-content/uploads/2024/05/8196v2.gif
-https://www.go-manga.com/wp-content/uploads/2024/05/8196x3.gif
-https://www.go-manga.com/wp-content/uploads/2024/05/u8196.gif
-https://www.go-manga.com/wp-content/uploads/2024/05/q8196.gif
-https://www.go-manga.com/wp-content/uploads/2024/05/r8196.gif
-https://www.go-manga.com/wp-content/uploads/2024/05/z8196.gif
-https://www.go-manga.com/wp-content/uploads/2024/06/f8196.gif
-https://www.go-manga.com/wp-content/uploads/2024/06/p8196-1.gif
-https://www.go-manga.com/wp-content/uploads/2024/05/mangav2.gif
-https://www.go-manga.com/wp-content/uploads/2024/06/fhm99v2.gif
-https://www.go-manga.com/wp-content/uploads/2024/05/neon24h.gif
-https://www.go-manga.com/wp-content/uploads/2024/05/sbobet888.gif
-https://www.go-manga.com/wp-content/uploads/2024/05/kod168.gif
-https://www.go-manga.com/wp-content/uploads/2024/05/Alpha88v2.gif
-https://www.go-manga.com/wp-content/uploads/2024/05/fafa678x1.gif
-https://www.go-manga.com/wp-content/uploads/2024/03/hengjing168.gif
-https://www.go-manga.com/wp-content/uploads/2024/05/baccarat888.gif
-https://www.go-manga.com/wp-content/uploads/2024/06/140x250_game.gif
-go-manga.com###content > div.wrapper > div.center_gomanga3
+thaimanga.net##div.ads:nth-child(6)
+xn--l3c0azab5a2gta.com##div.ads:nth-child(6)
+xn--l3c0azab5a2gta.com##div.ads:nth-child(6)
