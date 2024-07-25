@@ -1,6 +1,6 @@
 [Adblock Plus Beta] By Ohm
-! Version: 0.0.2
-! UpdateDate: 25.07.2024
+! Title: lloulnw EasyList Thailand
+! Version: 0.0.2 (25.07.2024)
 
 108-manga.com##div.ads:nth-child(6)
 aquamanga.com###radio_content > iframe:last-child
