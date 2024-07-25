@@ -1,5 +1,6 @@
 [Adblock Plus Beta] By Ohm
-! Version: 0.0.1
+! Version: 0.0.2
+! UpdateDate: 25.07.2024
 
 108-manga.com##div.ads:nth-child(6)
 aquamanga.com###radio_content > iframe:last-child
@@ -50,7 +51,10 @@ https://mangathailand.com/wp-content/uploads/2024/02/sexygame1688.webp
 https://mangathailand.com/wp-content/uploads/2024/02/ssgame66.webp 	
 https://mangathailand.com/wp-content/uploads/2024/02/ufac4.webp 		
 https://mangathailand.com/wp-content/uploads/2024/02/ufanance.webp 	
-https://mangathailand.com/wp-content/uploads/2024/02/ufazeed.webp 		
+https://mangathailand.com/wp-content/uploads/2024/02/ufazeed.webp
+https://mangathailand.com/wp-content/uploads/2022/07/slot.webp
+https://mangathailand.com/wp-content/uploads/2022/07/heng.webp
+https://mangathailand.com/wp-content/uploads/2022/07/inw.webp
 https://www.go-manga.com/wp-content/uploads/2024/03/hengjing168.gif
 https://www.go-manga.com/wp-content/uploads/2024/03/pgslot135.gif
 https://www.go-manga.com/wp-content/uploads/2024/04/fafa666.gif
