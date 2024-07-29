@@ -179,3 +179,9 @@ sixmanga.com##div.wrap:nth-child(10) > div.body-wrap > div.ads.col-md-12.text-ce
 thaimanga.net##div.ads:nth-child(6)
 xn--l3c0azab5a2gta.com##div.ads:nth-child(6)
 xn--l3c0azab5a2gta.com##div.ads:nth-child(6)
+
+mangasuper.com###block-9 > div.widget__inner.widget_block__inner.c-widget-wrap > div.widget-content > div.center
+mangasuper.com###sticky-ads-bottom2
+mangasuper.com###sticky-ads-bottom3
+mangasuper.com###sticky-ads-bottom
+mangasuper.com###sticky-ads-bottom
