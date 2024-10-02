@@ -418,3 +418,7 @@ mangasuper.com###sticky-ads-bottom2
 mangasuper.com###sticky-ads-bottom3
 mangasuper.com###sticky-ads-bottom
 mangasuper.com###sticky-ads-bottom
+toomtam-manga.com##div[class="dessert-frame"]
+toomtam-manga.com##a[href$="brazil999"]
+toomtam-manga.com##a[href$="ufazeed"]
+toomtam-manga.com##div[class="kln"]
