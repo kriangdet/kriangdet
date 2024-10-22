@@ -435,3 +435,5 @@ manhuathai.com##a[href$="sa666"]
 manhuathai.com##a[href$="lalikabet168"]
 manhuathai.com##a[href$="lalikabet88"]
 manhuathai.com##div[class="ads col-md-12 text-center mt-2 mb-2"]
+reborntrans.com##div[id="wbnn"]
+reborntrans.com##div[class="article__header"]>center
