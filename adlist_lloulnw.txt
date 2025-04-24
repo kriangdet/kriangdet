@@ -444,3 +444,5 @@ mangastep.com###content > div.wrapper:last-child > a:nth-child(3) > img
 mangastep.com###content > div.wrapper:last-child > a:nth-child(4) > img
 manga-lc.net###block-34 > div.widget__inner.widget_block__inner.c-widget-wrap > div.widget-content > div.text-centerd:first-child
 manga-lc.net###block-34 > div.widget__inner.widget_block__inner.c-widget-wrap > div.widget-content > div.text-centerd:first-child
+flash-manga.com##div.header-ads-section:nth-child(6)
+
